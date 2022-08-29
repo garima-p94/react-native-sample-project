@@ -15,9 +15,11 @@ This Sample Project can be used for:
   - UI compatibility across OS & Devices
   
   - React Navigation
-  
-  - Firebase
-  
+    
   - Code Quality
+  
+  - Reusability
+  
+  - React Hooks & Custom Hooks
   
   
