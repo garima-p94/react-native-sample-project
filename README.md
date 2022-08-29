@@ -1,7 +1,7 @@
 # RNSample
 
 React Native Sample Project 
-# project may not run
+// project may not run
 
 
 This Sample Project can be used for:
