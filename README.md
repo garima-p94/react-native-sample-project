@@ -1,6 +1,7 @@
 # RNSample
 
-React Native Sample Project
+# project may not run
+React Native Sample Project 
 
 
 This Sample Project can be used for:
@@ -22,4 +23,5 @@ This Sample Project can be used for:
   
   - React Hooks & Custom Hooks
   
+    
   
